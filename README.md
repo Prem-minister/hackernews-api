@@ -7,4 +7,4 @@ This application is a newsreader that calls the Hackernews Api. This project was
 You can access the react app using this link 
 https://prem-minister.github.io/hackernews-api/
 
-![Preview](Capture.png?raw=true)
+![](Capture.PNG)
